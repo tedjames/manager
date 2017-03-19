@@ -9,10 +9,14 @@
 	"dependencies": {
 		"@shoutem/ui": "^0.10.2",
 		"firebase": "^3.6.4",
+		"lodash": "^4.17.3",
 		"react": "15.4.1",
 		"react-native": "0.39.2",
+		"react-native-communications": "^2.1.4",
+		"react-native-router-flux": "3.35.0",
 		"react-redux": "^5.0.1",
 		"redux": "^3.6.0",
+		"redux-thunk": "^2.1.0",
 		"uuid": "^3.0.1"
 	},
 	"devDependencies": {
